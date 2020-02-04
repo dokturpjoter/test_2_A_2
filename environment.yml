@@ -2,6 +2,7 @@ channels:
   - conda-forge
 dependencies:
   - python=2.7
+  - python=3.5
   - appmode
   - networkx==1.11
   - matplotlib

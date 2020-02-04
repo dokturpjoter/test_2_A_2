@@ -1,4 +1,5 @@
 channels:
+  - python-2.7
   - conda-forge
 dependencies:
   - appmode

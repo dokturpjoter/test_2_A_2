@@ -1,5 +1,6 @@
-channels:
+runtime:
   - python-2.7
+channels:
   - conda-forge
 dependencies:
   - appmode

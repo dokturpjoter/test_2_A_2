@@ -2,4 +2,6 @@ networkx==1.11
 matplotlib
 numpy
 pandas
+seaborn
 ipywidgets
+appmode
